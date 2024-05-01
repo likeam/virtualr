@@ -11,7 +11,7 @@ const HeroSection = () => {
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">Empower your own crativity and bring your own app idea to life with our instiution develped tools. Get started today and turn your imagation into imense reality! </p>
       <div className="flex justify-center my-10 ">
         <a href="#" className=" bg-gradient-to-r from bg-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md hover:text-orange-300">Start for free</a>
-        <a href="" className="py-3 px-4 mx-3 rounded-md border hover:text-orange-300">Documentation</a>
+        <a href="" className=" text-sm py-3 px-4 mx-3 rounded-md border hover:text-orange-300">Documentation</a>
       </div>
       <div className="flex mt10 justify-center">
         <video 
